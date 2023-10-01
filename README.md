@@ -1,2 +1,2 @@
-# terraform-week7
-terraform code to create a multi tire app
+# Terraform-week7
+Terraform Code to Create a Multi-tier Application
